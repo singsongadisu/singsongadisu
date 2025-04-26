@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Singsong Addisu
 =======================================================================================================================================
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+There+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡"/>
+</h1>
 I am final year computer science student.
 -----------------------------------------
 
