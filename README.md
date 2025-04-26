@@ -1,7 +1,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+There+👋🏾;I'm+Singsong+Addisu+Bezuneh!;Junior+;syber+security+analysist+🫡"/>
 </h1>
-=======================================================================================================================================
+============================================================================================================
 I am computer science graduate
 -----------------------------------------
 
