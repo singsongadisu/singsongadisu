@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+There+👋🏾;I'm+Singsong+Addisu+Bezuneh!;Junior+;cyber+security+analyst +🫡"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=550&center=true&vCenter=true&width=9500&height=1200&duration=4000&lines=Hi+There+👋🏾;I'm+Singsong+Addisu+Bezuneh!;Junior+;cyber+security+analyst; +🫡"/>
 </h1>
 ============================================================================================
 
@@ -8,7 +8,7 @@ I am computer science graduate
 
 I love coding and technology.
 
-* 🌍  I'm based in Hawassa, Ethiopia
+* 🌍  I'm based in Addis abeba, Ethiopia
 * ✉️  You can contact me at [singsongadisu@gmail.com](mailto:singsongadisu@gmail.com)
 * 🧠  I'm learning AI/machine learning, python,js
 * 🤝  I'm open to collaborating on any real-time world problem solving projects that can help my community.
