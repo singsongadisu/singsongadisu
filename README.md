@@ -1,117 +1,111 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Singsong Addisu</h1>
-<h3 align="center">Cybersecurity Analyst • SOC Operations • Threat Detection & IR</h3>
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&color=00CFFF&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+There+👋🏾;+I'm+Singsong+Addisu+Bezuneh!;+SOC+Analyst+%7C+Cybersecurity+Enthusiast" />
+</h1>
 
 <p align="center">
-  Passionate about defending systems, analyzing threats, building SOC tools, and empowering communities through technology.
+  <strong>Junior Cybersecurity Analyst | SOC Operations | Threat Detection | Incident Response</strong>
 </p>
 
 ---
 
-## 🛡️ About Me
-- 🔐 Cybersecurity Analyst at **INSA (Information Network Security Administration)**
-- 🛠️ SOC operations: log analysis, alert triage, incident investigation  
-- 📡 Experience analyzing **Suricata alerts**, PCAPs, SQLi attempts, malware traffic & RCE attacks  
-- 🧩 Building cyber tools, automations, and real-world security projects  
-- 🎓 Preparing for advanced cybersecurity certifications  
-- 💙 Interested in cyber defense, DFIR, secure development, and community empowerment  
+## 👨‍💻 About Me
+
+- 🌍 Based in **Addis Ababa, Ethiopia**
+- 🛡 Working towards becoming a **top-tier SOC Analyst**
+- 🧠 Currently learning: **DFIR**, **Threat Hunting**, **Network Security**, **Machine Learning**
+- 🤝 Open to collaborate on **security tools, monitoring dashboards, and AI-for-security solutions**
+- ✉️ Reach me at **singsongadisu@gmail.com**
 
 ---
 
-## 🔧 Cybersecurity Tools I Use
+# 🛡 Cybersecurity Tools & Technologies
 
-I use a variety of professional tools for threat detection, analysis, investigation, and security automation:
+## 🔍 IDS / IPS
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Suricata_Logo.svg" height="40" alt="Suricata" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Snort-logo.png" height="40" alt="Snort" />
+</p>
 
-- **Suricata** – High-performance IDS/IPS and deep packet inspection for real-time alerting  
-- **Snort** – Signature-based network intrusion detection for packet-level threat analysis  
-- **Splunk** – Enterprise SIEM for log correlation, dashboards, and threat hunting  
-- **Elastic Stack (ELK)** – Log ingestion, searching, and incident investigation  
-- **IBM QRadar** – SOC-grade SIEM with advanced correlation and automated detection  
-- **pfSense** – Open-source firewall and VPN gateway for securing networks  
-- **Cisco ASA** – Enterprise firewall for access control, VPN, and perimeter defense  
-- **Velociraptor** – DFIR and endpoint monitoring for artifact collection and investigations  
-- **FLARE VM** – Reverse engineering & malware analysis environment  
-- **Metasploit Framework** – Exploitation framework for security testing  
-- **Nmap** – Network scanning, service enumeration, and auditing  
-- **Linux** – Primary OS for cybersecurity workflows, scripting, and forensics  
-- **PowerShell** – Automation and incident response scripting  
-- **Docker** – Containerized security lab environments and tool deployment  
-- **Burp Suite** – Web app testing and manual vulnerability analysis  
-- **Git & GitHub** – Version control for scripts, detections, and SOC tools  
+## 🛰 SIEM Platforms
+<p align="left">
+  <img src="https://seeklogo.com/images/S/splunk-logo-8724D6135E-seeklogo.com.png" height="40" alt="Splunk" />
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" height="40" alt="Elastic SIEM" />
+  <img src="https://www.logo.wine/a/logo/IBM/IBM-Logo.wine.svg" height="40" alt="QRadar" />
+</p>
 
----
+## 🔥 Firewalls
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Pfsense_logo.png" height="40" alt="pfSense" />
+  <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" height="40" alt="Cisco ASA" />
+</p>
 
-## 🧩 Featured Projects
+## 🛡 EDR / Threat Detection Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Velociraptor-Logo.png" height="40" alt="Velociraptor" />
+  <img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="40" alt="FLARE VM" />
+</p>
 
-### 📌 **Enset Restaurant Bot System**
-A full food ordering and management system:
-- Telegram Manager Bot  
-- Telegram Customer Bot  
-- Loyalty system (points, referral, rewards)  
-- Real-time order tracking  
-- Web mini-app + MongoDB backend  
-- Advanced admin analytics  
+## 🧰 Pentesting & Analysis Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Metasploit_logo.png" height="40" alt="Metasploit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Nmap-logo.svg" height="40" alt="Nmap" />
+</p>
 
-### 🎯 **Sign Language Learning Platform**
-- Text-to-sign GIF translation  
-- Expanding to voice → sign  
-- Built to support hearing-impaired students  
-- Future: dashboard, multi-language support
-
-### 🎮 **Telegram Bingo Game**
-- Multiplayer game system  
-- Custom game logic (Addis Bingo)  
-- Database integration (MongoDB)  
-- Web app extension planned  
-
-### 🛡️ **SOC Incident Reports & Analysis**
-- SQL Injection attack investigations  
-- Suricata alert analysis (RCE, SQLi, probes)  
-- Nmap scanning interpretation  
-- Internal penetration testing traffic documentation  
+## ⚙ SOC Daily Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</p>
 
 ---
 
-## ⚙️ Skills & Technologies
-
-**Programming:**  
-`Python` `JavaScript` `Node.js` `Bash` `PowerShell`  
-
-**Cybersecurity:**  
-`Threat Detection` `IR` `SOC Operations` `DFIR` `Malware Analysis` `SIEM`  
-`IDS/IPS` `Firewall Configurations` `Endpoint Analysis`  
-
-**Tools & Platforms:**  
-`Linux` `Git` `Docker` `MongoDB` `VS Code` `Burp Suite`  
-
----
-
-## 🧰 Tools I Use Daily
+# 💻 Programming & Tech Stack
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="45"/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/singsong-addisu" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40">
-  </a>
-  <a href="https://github.com/SingsongAddisu" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
-  </a>
-  <a href="mailto:singsongaddisu@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40">
-  </a>
+  <a href="https://github.com/singsongadisu"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
+  <a href="http://www.instagram.com/singsongaddisu"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
+  <a href="https://www.linkedin.com/in/singsong-bezuneh-a95a9529a/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+  <a href="https://www.x.com/singsongaddisu"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
+  <a href="https://www.youtube.com/@dottechmedia"><img src="https://skillicons.dev/icons?i=youtube" height="35" /></a>
 </p>
 
 ---
 
-⭐ *Thanks for visiting! Always learning. Always defending.*  
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singsongadisu&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singsongadisu&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singsongadisu&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+# ☕ Support Me
+<p>
+  <a href="https://www.buymeacoffee.com/singsongaddisu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" /></a>
+</p>
