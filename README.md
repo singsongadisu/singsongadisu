@@ -1,81 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=250&section=header&text=Singsong%20Addisu&fontSize=70&animation=fadeIn&fontColor=00cfff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=010816&height=250&section=header&text=Singsong%20Addisu&fontSize=70&animation=fadeIn&fontColor=00cfff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Software+Engineer;SOC+Analyst;Problem+Solver" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Security-First+Backend+Architect;Software+Engineer;SOC+Analyst;Production+Systems+Hardener" alt="typing" />
 </div>
 
 <p align="center">
   <a href="mailto:singsongadisu@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00cfff" /></a>
-  <a href="https://www.linkedin.com/in/singsong-bezuneh-a95a9529a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00cfff" /></a>
+  <a href="https://singsongadisu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00cfff" /></a>
   <a href="https://t.me/singsongadisu"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00cfff" /></a>
 </p>
 
 <p align="center">
-  <i>Helping teams see signals before they become incidents — and building the tools to act.</i>
+  <i>"Building resilient systems that see signals before they become incidents."</i>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SOC%20Ops-0d1117?style=for-the-badge&logoColor=00cfff" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-0d1117?style=for-the-badge&logoColor=00cfff" />
-  <img src="https://img.shields.io/badge/DFIR-0d1117?style=for-the-badge&logoColor=00cfff" />
-  <img src="https://img.shields.io/badge/Security%20Automation-0d1117?style=for-the-badge&logoColor=00cfff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00cfff&height=30&section=footer&animation=fadeIn" width="100%" />
-</div>
-
+---
 
 ## 👤 Profile At A Glance
 
-| 📍 Location | 🛠️ Role | 🤝 Availability | 📧 Contact |
+| 📍 Location | 🛠️ Focus | 🤝 Philosophy | 📧 Contact |
 | :--- | :--- | :--- | :--- |
-| Addis Ababa, Ethiopia | Software Engineer & SOC Analyst | Open to Build & Solve collaborations | singsongadisu@gmail.com |
+| Addis Ababa, Ethiopia | High-Concurrency Backend | Security-as-Code & Resilience | singsongadisu@gmail.com |
 
 <br/>
 
-> [!NOTE]
-> **Focus:** Building robust applications and resilient security detections.
-> **Philosophy:** If it's a problem, there's a programmatic or defensive solution.
+> [!IMPORTANT]
+> **Production Mindset:** I specialize in the intersection of **Backend Architecture** and **Security Operations**. My goal is to build systems that are not just "working," but are hardened, observable, and scalable.
 
 <br/>
 
 ---
 
-## ⚡ How I Can Help
+## ⚡ Technical Wins (Recruiter Highlights)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-00cfff?style=for-the-badge&logo=codeforces&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/System%20Design-00cfff?style=for-the-badge&logo=diagrams.net&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Detection%20Engineering-00cfff?style=for-the-badge&logo=shield&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Security%20Automation-00cfff?style=for-the-badge&logo=automation&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-00cfff?style=for-the-badge&logo=target&logoColor=0d1117" />
-</p>
+*   **Fintech Hardening**: Engineered payment hubs for **Telebirr & Chapa** with 100% financial consistency through idempotency-key systems and multi-step reconciliation logic.
+*   **Low-Latency AI**: Integrated neural engines for real-time sign recognition, reducing latency from 250ms to **<90ms** via custom frame-skipping algorithms and WebSocket optimizations.
+*   **Security Automation**: Built automated triage and investigation scripts to streamline SOC operations and identify threats at scale.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">� Dev & Tools</h3>
+      <h3 align="center">🏗️ Architecture & Dev</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,git,github,python,js,nodejs,react,mongodb,postgres&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,js,nodejs,php,docker,git,linux,bash,mongodb,postgres,mysql,redis&theme=dark" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">�🛡️ Security Ops</h3>
+      <h3 align="center">🛡️ Security & Ops</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/SIEM-QRadar-0d1117?style=flat-square&logo=ibm&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/SIEM-Elastic-0d1117?style=flat-square&logo=elastic&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/IDS-Suricata-0d1117?style=flat-square&logo=suricata&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/FW-pfSense-0d1117?style=flat-square&logo=pfsense&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/EDR-Velociraptor-0d1117?style=flat-square&logo=todoist&logoColor=00cfff" />
+        <img src="https://img.shields.io/badge/SIEM-QRadar%20|%20Elastic-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Ops-KQL%20|%20Suricata%20|%20pfSense-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Automation-CI/CD%20|%20GitHub%20Actions-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Testing-Pytest%20|%20Jest-0d1117?style=flat-square&logoColor=00cfff" />
       </p>
     </td>
   </tr>
@@ -83,28 +65,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering
 
-| Project | Description | Tech |
+| Project | Key Tech | Innovation |
 | :--- | :--- | :--- |
-| **[Blue-Team-Playbooks](https://github.com/singsongadisu/blue-team-playbooks)** | Investigation steps and response checklists for SOC alerts. | `Detection` `IR` `SOC` |
-| **[Threat-Hunting](https://github.com/singsongadisu/threat-hunting-notebooks)** | Repeatable hunts with queries and visuals. | `Hunting` `Python` `KQL` |
-| **[DFIR-Toolkit](https://github.com/singsongadisu/dfir-toolkit)** | Scripts for triage, timeline, and evidence prep. | `DFIR` `Bash` `Python` |
+| **[Enset Restaurant Logic](https://singsongadisu.netlify.app/projects.html#enset)** | `Python` `Telebirr API` | Built a dual-bot ERP with **real-time state locking** to prevent race conditions during high-traffic order spikes. |
+| **[Blue-Team-Playbooks](https://github.com/singsongadisu/blue-team-playbooks)** | `SOC` `Automation` | Standardized technical response steps for high-priority incidents across enterprise environments. |
+| **[AI SignLearn Neural Bridge](https://singsongadisu.netlify.app/projects.html#semi)** | `FastAPI` `WebSockets` | Optimized a neural engine link to support **50+ concurrent sign-language learners** on low-tier infrastructure. |
 
 ---
 
-## 📊 Stats & Activity
+## 📊 Stats & Snake
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singsongadisu&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singsongadisu&theme=tokyonight&background=0d1117&title=00cfff&text=9ca3af&fire=00cfff&sideNums=9ca3af&sideLabels=9ca3af&stroke=1f2937&hide_border=false" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singsongadisu&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
-</div>
-
-### 🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singsongadisu/singsongadisu/output/github-contribution-grid-snake-dark.svg">
@@ -113,35 +89,13 @@
   </picture>
 </div>
 
-<br/>
-
-
-## Fun Facts
-- I enjoy translating complex detections into clean, human-friendly dashboards.
-- I like pairing with data teams to turn security signals into stories.
-- I collect one new packet capture each week to practice faster analysis.
-
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/singsongadisu"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-  <a href="https://www.linkedin.com/in/singsong-bezuneh-a95a9529a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00cfff" /></a>
-  <a href="https://t.me/singsongadisu"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00cfff" /></a>
-  <a href="mailto:singsongadisu@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00cfff" /></a>
+  <a href="https://github.com/singsongadisu"><img src="https://img.shields.io/badge/GitHub-00cfff?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/singsong-bezuneh-a95a9529a/"><img src="https://img.shields.io/badge/LinkedIn-00cfff?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+  <a href="mailto:singsongadisu@gmail.com"><img src="https://img.shields.io/badge/Email-00cfff?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
+  <a href="https://wa.me/251935475698"><img src="https://img.shields.io/badge/WhatsApp-00cfff?style=for-the-badge&logo=whatsapp&logoColor=0d1117" /></a>
 </p>
-
-<p align="left">
-  <a href="https://x.com/singsongaddisu"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00cfff" /></a>
-  <a href="https://www.instagram.com/singsongaddisu/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4fd8" /></a>
-  <a href="https://web.facebook.com/singsongaddisu"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00cfff" /></a>
-  <a href="https://wa.me/251935475698"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00cfff" /></a>
-  <a href="https://www.youtube.com/@dottechmedia"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00cfff" /></a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer" width="100%" />
-</div>
