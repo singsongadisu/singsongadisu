@@ -16,7 +16,7 @@
   <i>"Building resilient systems that see signals before they become incidents."</i>
 </p>
 
-----6
+----
 
 ## 👤 Profile At A Glance
 
